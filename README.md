@@ -1,6 +1,8 @@
 # Sviluppare Plugin
 Risorse, materiale e codice a supporto del mio talk su come sviluppare Plugin in WordPress, tenuto al WordPress Torino Meetup il 9 Novembre 2016.
 
+Le slide dell'intervento: http://www.slideshare.net/ThomasVitale/sviluppare-plugin-per-wordpress
+
 ## Tom Book Banner
 Tom Book Banner è un Plugin di esempio che ha lo scopo di mostrare come si
 definisce un Plugin e come si utilizzano gli action hooks.
