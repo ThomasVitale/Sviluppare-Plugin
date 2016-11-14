@@ -2,6 +2,7 @@
 Risorse, materiale e codice a supporto del mio talk su come sviluppare Plugin in WordPress, tenuto al WordPress Torino Meetup il 9 Novembre 2016.
 
 Le slide dell'intervento: http://www.slideshare.net/ThomasVitale/sviluppare-plugin-per-wordpress
+Il video dell'intervento: http://wordpress.tv/2016/11/12/thomas-vitale-sviluppare-plugin/
 
 ## Tom Book Banner
 Tom Book Banner è un Plugin di esempio che ha lo scopo di mostrare come si
